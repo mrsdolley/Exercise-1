@@ -1,0 +1,64 @@
+section {
+  width: 450px;
+  border: none;
+  background-color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px;
+  position: relative;
+  box-shadow: 0 4px 8px 0 grey;
+}
+    
+/*.container-1    {
+  text-align: center;
+}*/
+
+
+body {
+  background-color: #EAF4F9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+input, button {
+  height: 45 px;
+  font-size: 1.2 rem;
+  
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid rgb(204, 194, 194);
+  margin-bottom: 20px;
+}
+
+
+button {
+  color: white;
+  background-color: #3598db;
+  margin-top: 30px;
+  border: none;
+
+}
+
+h3, button {
+  text-transform: uppercase;
+}
+
+a {
+  position: absolute;
+  right: 50px;
+  top: 170px;
+  color: grey;
+  text-decoration: none;
+}
+
+p {
+  border: 0px;
+  padding: 10px;
+  margin-top: 10px;
+  color: rgb(197, 193, 193);
+}
+
